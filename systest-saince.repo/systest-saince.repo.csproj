@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>systest_saince.repo</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\systest-saince.data\systest-saince.data.csproj" />
+    <ProjectReference Include="..\systest-saince.VM\systest-saince.VM.csproj" />
+  </ItemGroup>
+
+</Project>

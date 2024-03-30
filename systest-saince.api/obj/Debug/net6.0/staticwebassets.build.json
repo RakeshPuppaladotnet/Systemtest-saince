@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lZdZ3aCCtxqqD/zVQwyCKu8nM9ETjbAfwqWuTr0vtnM=",
+  "Source": "systest-saince.api",
+  "BasePath": "_content/systest-saince.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
